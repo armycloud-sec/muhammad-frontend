@@ -1,0 +1,3 @@
+creating soem excercise 
+echo "Adding a second line to exercise 1" >> exercise1.txt
+echo "Testing branch changes" >> exercise1.txt
